@@ -9,6 +9,8 @@ This repository contains the complete source code for a **single-page Hero Secti
 
 The design centers around the NSS core philosophy, featuring the official motto *"Not Me But You"*, a muted blood-donation camp backdrop, and a subtle Tiranga (tricolor) stripe to represent the nation as a family.
 
+https://vyasjaiswal137.github.io/NSS-portfolio/
+
 ## ✨ Key Features
 - **Full-Screen Visual Impact**: Optimized for a 1440x900 canvas, featuring a high-resolution background image of an NSS blood donation camp.
 - **Strategic Overlay**: Uses a 70% off-white (`#F8F9FA`) overlay to mute the background, ensuring the NSS logo remains the undisputed focal point while retaining the emotional context of the imagery.
