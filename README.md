@@ -29,8 +29,6 @@ NSS-Portfolio/
 
 ├── style.css 
 
-├── README.md 
-
 └── assets/
 
 ├── background.jpg
