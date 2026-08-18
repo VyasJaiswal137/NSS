@@ -20,14 +20,20 @@ The design centers around the NSS core philosophy, featuring the official motto 
 ## 🛠️ Tech Stack
 - **HTML5** - Semantic structure.
 - **CSS3** - Custom keyframes, resets, and animations.
-- **Google Fonts** - **Oswald** (for the bold motto) and **Poppins** (for clean body text).
+- **Google Fonts** - **Oswald** and **Poppins** 
 
 ## 📂 Project Structure
 NSS-Portfolio/
-├── index.html (Main HTML structure)
-├── style.css (Animations & global resets)
-├── README.md (This file)
+├── index.html 
+
+├── style.css 
+
+├── README.md 
+
 └── assets/
+
 ├── background.jpg
+
 ├── nss-logo.png 
+
 └── college-logo.png 
