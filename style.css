@@ -49,3 +49,36 @@ body {
 .font-poppins {
     font-family: 'Poppins', sans-serif;
 }
+
+/* ---------- TRICOLOR CENTER BACKGROUND (Behind NSS Logo) ---------- */
+.hero-content::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -65%);
+    width: 1440px;
+    /* Adjust to match your logo width */
+    height: 400px;
+    /* Adjust to match your logo height */
+    background: linear-gradient(
+        to bottom,
+        #FF9933 0%,
+        /* Saffron - Top */
+        #FF9933 33.33%,
+        #FFFFFF 33.33%,
+        /* White - Middle */
+        #FFFFFF 66.66%,
+        #138808 66.66%,
+        /* Green - Bottom */
+        #138808 100%
+    );
+    opacity: 0.7;
+    /* 70% transparency as requested */
+    border-radius: 16px;
+    /* Soft rounded corners (remove if you want sharp edges) */
+    z-index: 0;
+    /* Behind the logo but above the overlay */
+    pointer-events: none;
+    /* Prevents blocking clicks on the logo */
+}
