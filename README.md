@@ -28,6 +28,6 @@ NSS-Portfolio/
 ├── style.css (Animations & global resets)
 ├── README.md (This file)
 └── assets/
-├── background.jpg (Blood donation camp image)
-├── nss-logo.png (NSS Logo - transparent background)
-└── college-logo.png (College Logo - transparent background)
+├── background.jpg
+├── nss-logo.png 
+└── college-logo.png 
