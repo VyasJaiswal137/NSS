@@ -20,7 +20,6 @@ The design centers around the NSS core philosophy, featuring the official motto 
 ## 🛠️ Tech Stack
 - **HTML5** - Semantic structure.
 - **CSS3** - Custom keyframes, resets, and animations.
-- **Tailwind CSS** (via CDN) - Utility-first styling for rapid, responsive layout.
 - **Google Fonts** - **Oswald** (for the bold motto) and **Poppins** (for clean body text).
 
 ## 📂 Project Structure
