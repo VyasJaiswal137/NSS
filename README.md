@@ -5,7 +5,7 @@
 </p>
 
 ## 📖 Overview
-This repository contains the complete source code for a **single-page Hero Section** designed specifically for the National Service Scheme (NSS) interview portfolio. It was meticulously crafted to replicate a high-fidelity Canva design, emphasizing patriotism, institutional pride, and a clean user experience.
+This repository contains the complete source code for a **single-page Section** designed specifically for the National Service Scheme (NSS) interview portfolio. It was meticulously crafted to replicate a high-fidelity Canva design, emphasizing patriotism, institutional pride, and a clean user experience.
 
 The design centers around the NSS core philosophy, featuring the official motto *"Not Me But You"*, a muted blood-donation camp backdrop, and a subtle Tiranga (tricolor) stripe to represent the nation as a family.
 
