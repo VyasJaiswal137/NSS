@@ -1,4 +1,4 @@
-# 🇮🇳 NSS Portfolio - Hero Section
+# 🇮🇳 NSS Portfolio 
 
 <p align="center">
   <img src="/assets/Not Me But You.png" alt="Canva Image" width="700">
